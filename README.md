@@ -5,8 +5,8 @@ An archived data is visulaized using grafana.
 
 Following are the set of tools required to set up:
 
-> ThingsNetwork Account
-> Nifi data pipeline tool
-> Influxdb Time series database
-> Owncloud as storage for longterm archive
+- ThingsNetwork Account
+- Nifi data pipeline tool
+- Influxdb Time series database
+- Owncloud as storage for longterm archive
 
