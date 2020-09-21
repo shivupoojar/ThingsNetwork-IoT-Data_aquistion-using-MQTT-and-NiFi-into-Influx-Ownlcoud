@@ -2,9 +2,13 @@
 
 This project mainly focused on data archiving from ThingsNetwork in to Influxdb time series database and owncloud using MQTT ThingsNetwork topic subscritption.
 An archived data is visulaized using grafana.
-** Setting up ThingsNetwork**
+
+** Setting up application adn device in ThingsNetwork**
 - Create an account in ThingsNetwork(https://www.thethingsnetwork.org/)
 - Create an application in ThingsNetwork(https://www.thethingsnetwork.org/docs/applications/add.html)
-- Register device in to application(https://www.thethingsnetwork.org/docs/devices/registration.html)
+- Register device in to an application(https://www.thethingsnetwork.org/docs/devices/registration.html)
 
+**Simulating devcie and decoding the payload in ThingsNetwork**
+Instead using real devices and LORAWAN gateways, We are simulating the device to send some sample payload.   
 
+![alt text](a.png)
