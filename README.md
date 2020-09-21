@@ -8,5 +8,5 @@ Following are the set of tools required to set up:
 - ThingsNetwork Account
 - Nifi data pipeline tool
 - Influxdb Time series database
-- Owncloud as storage for longterm archive
+- Owncloud as storage for longterm archiving
 
