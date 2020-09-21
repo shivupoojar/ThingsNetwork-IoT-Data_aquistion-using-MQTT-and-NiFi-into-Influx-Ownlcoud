@@ -10,5 +10,5 @@ Following are the set of tools required to set up:
 - Influxdb Time series database
 - Owncloud as storage for longterm archiving
 
-Create a account and  application, register device:[Link Text](full-URL-of-wiki-page)
-https://github.com/shivupoojar/ThingsNetwork-IoT-Data_aquistion-using-MQTT-and-NiFi-into-Influx-Ownlcoud/wiki/Handling-device-and-applicaion-in-Thingsnetwork-platform
+Create an account, application, register device in [ThingsNetwork](https://github.com/shivupoojar/ThingsNetwork-IoT-Data_aquistion-using-MQTT-and-NiFi-into-Influx-Ownlcoud/wiki/Handling-device-and-applicaion-in-Thingsnetwork-platform)
+
