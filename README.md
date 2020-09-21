@@ -10,5 +10,7 @@ An archived data is visulaized using grafana.
 
 **Simulating devcie and decoding the payload in ThingsNetwork**
 
-Instead of using real devices and LORAWAN gateway, We are simulating the device to send some sample payload and deocde when data i srecived from teh device.
-![upllink](/SamplePyaload-Uplink.JPG)
+Instead of using real devices and LORAWAN gateway, We wil simulate the device to send some sample payload and decode, when data is recieved in thingsnetwork application.\
+![uplink](/SamplePyaload-Uplink.JPG)\
+Now in the section **Simulate Uplink** and add Hexadecimal payload of your own size(Ex. AA FF AA FF AA CC DD AA FA CA 12 bytes),\ 
+![payload](/Payload_added.JPG)
